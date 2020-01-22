@@ -52,7 +52,9 @@ header{
 .space-top{
     padding-top: 30px;
 }
-
+.space-margin{
+    margin-bottom: 10px;
+}
 .btn{
     border: 1px solid transparent;
     padding: .375rem .75rem;
